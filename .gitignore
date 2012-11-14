@@ -1,0 +1,7 @@
+.env
+*.tar.gz
+*.pyc
+*.py~
+*.txt~
+build/
+venv/
