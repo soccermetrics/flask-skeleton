@@ -48,9 +48,9 @@ Changing appname
 
 If you wish to change `appname`, you need to do so at the following places:
 
-    * both subdirectory names
-    * the MyCustomApplication import in `runserver.py`
-    * the `import_app()` call within the `load()` routine in `customapplication.py`
+* both subdirectory names
+* the MyCustomApplication import in `runserver.py`
+* the `import_app()` call within the `load()` routine in `customapplication.py`
 
 Deployment
 ----------
@@ -73,7 +73,7 @@ TODO
 License
 -------
 
-This framework was created by [Howard Hamilton](howardhamilton). 
+This framework was created by [Howard Hamilton](github/howardhamilton). 
 (c) 2012 [Soccermetrics Research, LLC](http://www.soccermetrics.net).
 
 Everything is presented as-is without any warranty. Distributed via MIT license.
