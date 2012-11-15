@@ -46,7 +46,7 @@ If you're not using Foreman, running the app is also simple:
 Changing appname
 ----------------
 
-If you wish to change `appname`, you need to do so at the following places:
+If you wish to change `appname`, you'll need to do so at the following places:
 
 * both subdirectory names
 * the MyCustomApplication import in `runserver.py`
@@ -73,7 +73,7 @@ TODO
 License
 -------
 
-This framework was created by [Howard Hamilton](github/howardhamilton). 
+This framework was created by [Howard Hamilton](http://github.com/howardhamilton). 
 (c) 2012 [Soccermetrics Research, LLC](http://www.soccermetrics.net).
 
 Everything is presented as-is without any warranty. Distributed via MIT license.
